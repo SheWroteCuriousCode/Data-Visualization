@@ -1,2 +1,2 @@
 # Data-Visualization
-#Data mining and visulaization with R
+#Data mining and visualization with R
